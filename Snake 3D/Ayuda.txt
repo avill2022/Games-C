@@ -1,0 +1,18 @@
+"Bienvenido a la guerra de los cubos"
+
+instruciones del juego;
+el objetivo de la guerra de los 
+cubos es esquivar los 
+asteroides(cubos) de color negro y gris,
+y acumular monedas(cubos de color 
+amarillo) para 
+avanzar de nive
+
+
+teclas
+'a' mueve a la derecha
+'d'mueve a la hisquierda
+'s'mueve hacia atras
+'w' mueve adelante
+'f' dispara
+'_'gira
