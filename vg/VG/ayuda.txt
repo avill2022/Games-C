@@ -1,0 +1,13 @@
+
+
+   El juego consiste en recorrer la mayor distancia posible 
+   esquivando los enemigos y destruyéndolos.
+   En el camino podrás encontrar armas nuevas, joyas y 
+   Mas municiones
+
+   Controlas la nave con las teclas de dirección
+   Disparas con la letra f
+   Para salir del juego presiona ESC
+   Pausa con enter
+ 
+   A JUGAR!!
