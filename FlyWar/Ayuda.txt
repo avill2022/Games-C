@@ -1,0 +1,31 @@
+Objetivo: 
+Destruir 10 aviones enemigos para avanzar de nivel y 
+enfrentarte al enemigo mayor que es el enemigo a
+vencer.
+
+-El jugador
+
+ Armas
+
+
+-Diferentes tipos de enemigos
+
+  Elicoptero: Enemigo comùn
+
+
+
+  Avion cazar: Enemigo comùn 
+
+
+
+  Avion camicaze: Enemigo especial se mueve rapido
+
+
+
+  Avion bomba: Si es destruido no da puntos
+
+
+
+  Barco: No puede ser destruido 
+
+
