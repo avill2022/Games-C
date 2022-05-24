@@ -1,0 +1,19 @@
+El juego clasico de bomberMan 
+consiste en
+eliminar a tus enemigos con 
+bobmas
+en el esenario encontraras 
+obstaculos que
+podran ser destruidos, en 
+alguno de los 
+obstaculos encontraras una 
+puerta para 
+pasar al siguiente nivel, 
+para pasar de 
+nivel tendras que eliminar a 
+todos los
+enemigos.
+
+Movimiento:
+   flechas del teclado
+   bomba con la tecla espacio
