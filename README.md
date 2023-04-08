@@ -13,7 +13,7 @@ This repository contains a collection of basic games implemented in C programmin
 - Frutas: A simple game where the player has to catch falling fruits.
 [![FlyWar](https://img.youtube.com/vi/HrCEtwtDozw/0.jpg)](https://youtu.be/HrCEtwtDozw)
 - La Guerra de los Cubos: A game where the player controls a cube and has to destroy enemy cubes.
-[![La Guerra de los Cubos](https://img.youtube.com/vi/ElJbOdWZY/0.jpg)](https://youtu.be/A-ElJbOdWZY)
+[![La Guerra de los Cubos](https://img.youtube.com/vi/A-ElJbOdWZY/0.jpg)](https://youtu.be/A-ElJbOdWZY)
 - Editor Iconos: A program to create icons.
 - Skane 3D: A simple 3D game where the player has to avoid obstacles and collect coins.
 [![Skane 3D: A simple 3D](https://img.youtube.com/vi/KaDMbScQy8A/0.jpg)](https://youtu.be/KaDMbScQy8A)
