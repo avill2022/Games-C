@@ -15,7 +15,7 @@ This repository contains a collection of basic games implemented in C programmin
 [![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 - Editor Iconos: A program to create icons.
 - Skane 3D: A simple 3D game where the player has to avoid obstacles and collect coins.
-[![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Skane 3D: A simple 3D](https://img.youtube.com/vi/KaDMbScQy8A/0.jpg)](https://youtu.be/KaDMbScQy8A)
 - Labyrinth: A game where the player has to navigate through a maze to reach the end.
 [![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
