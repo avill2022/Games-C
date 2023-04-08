@@ -5,19 +5,20 @@ This repository contains a collection of basic games implemented in C programmin
 ## Games
 
 - Battle: A game similar to Battle City, where the player controls a tank and has to defend the base from enemy tanks.
-[![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Battle](https://img.youtube.com/vi/YXVMXsFrnRw/0.jpg)](https://youtu.be/YXVMXsFrnRw)
 - BomberGuy: A game similar to Bomberman, where the player navigates through a maze, planting bombs to defeat enemies and destroy obstacles.
-[![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![BomberGuy](https://img.youtube.com/vi/GF0GEhx6RUk/0.jpg)](https://youtu.be/GF0GEhx6RUk)
 - FlyWar: A game where the player controls a plane and has to destroy enemy planes while avoiding obstacles.
-[![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![FlyWar](https://img.youtube.com/vi/ujP5rECqLlo/0.jpg)](https://youtu.be/ujP5rECqLlo)
 - Frutas: A simple game where the player has to catch falling fruits.
+[![FlyWar](https://img.youtube.com/vi/HrCEtwtDozw/0.jpg)](https://youtu.be/HrCEtwtDozw)
 - La Guerra de los Cubos: A game where the player controls a cube and has to destroy enemy cubes.
-[![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![La Guerra de los Cubos](https://img.youtube.com/vi/ElJbOdWZY/0.jpg)](https://youtu.be/A-ElJbOdWZY)
 - Editor Iconos: A program to create icons.
 - Skane 3D: A simple 3D game where the player has to avoid obstacles and collect coins.
 [![Skane 3D: A simple 3D](https://img.youtube.com/vi/KaDMbScQy8A/0.jpg)](https://youtu.be/KaDMbScQy8A)
 - Labyrinth: A game where the player has to navigate through a maze to reach the end.
-[![Alt text for the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Labyrinth](https://img.youtube.com/vi/P1hCKASlC_g/0.jpg)](https://youtu.be/P1hCKASlC_g)
 
 ## Usage
 
